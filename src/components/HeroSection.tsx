@@ -632,7 +632,7 @@ const HeroSection = () => {
           <Magnetic strength={0.1}>
             <a
               href="/resume.pdf"
-              download="Durga_Vara_Prasad_Resume.pdf"
+              download="Abhishek_Mishra_Resume.pdf"
               onClick={playClick}
               aria-label="Download resume as PDF"
               className="group relative inline-flex items-center gap-2 px-6 py-4 border-2 border-black bg-white text-black text-sm font-bold tracking-[0.2em] uppercase transition-all duration-300 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] hover:bg-black hover:text-white hover:shadow-[8px_8px_0px_0px_rgba(0,0,0,0.2)] rounded-none"

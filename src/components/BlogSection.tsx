@@ -23,7 +23,7 @@ const FALLBACK_POSTS: BlogPost[] = [
       'Building Mail-Mind-AI: Transforming Inbox Productivity with Gemma 2 and Gmail API',
     brief:
       'A deep dive into how I leveraged Gemma 2 27B and the Gmail API to build a professional-grade, AI-powered email assistant that automatically categorizes and drafts responses.',
-    url: 'https://durgavaraprasad.hashnode.dev/building-mail-mind-ai',
+    url: 'https://mishrabhishek.hashnode.dev/building-mail-mind-ai',
     coverImage: {
       url: '',
     },
@@ -33,7 +33,7 @@ const FALLBACK_POSTS: BlogPost[] = [
     title: 'Designing Vidyalaya AI: How we Built a PDF-to-Study Platform',
     brief:
       'An architectural walkthrough of Vidyalaya AI, a modern study helper that translates textbooks and lecture notes into customized study guides and quizzes using vector searches.',
-    url: 'https://durgavaraprasad.hashnode.dev/designing-vidyalaya-ai',
+    url: 'https://mishrabhishek.hashnode.dev/designing-vidyalaya-ai',
     coverImage: {
       url: '',
     },
@@ -43,7 +43,7 @@ const FALLBACK_POSTS: BlogPost[] = [
     title: 'Optimizing React State and Animations for Neobrutalist UI/UX',
     brief:
       'Explaining the engineering choices behind high-performance animations, sound effects, and state management in neobrutalist and glassmorphic designs.',
-    url: 'https://durgavaraprasad.hashnode.dev/optimizing-react-state-neobrutalist-ui',
+    url: 'https://mishrabhishek.hashnode.dev/optimizing-react-state-neobrutalist-ui',
     coverImage: {
       url: '',
     },
@@ -62,7 +62,7 @@ const BlogSection = () => {
     try {
       const query = `
           query Publication {
-            publication(host: "durgavaraprasad.hashnode.dev") {
+            publication(host: "mishrabhishek.hashnode.dev") {
               posts(first: 3) {
                 edges {
                   node {
@@ -207,7 +207,7 @@ const BlogSection = () => {
 
         <div className="mt-4 flex justify-center md:justify-start">
           <a
-            href="https://durgavaraprasad.hashnode.dev/"
+            href="https://mishrabhishek.hashnode.dev/"
             target="_blank"
             rel="noopener noreferrer"
             onClick={playClick}

@@ -9,11 +9,15 @@
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 [![ShadcnUI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
 
+<<<<<<< HEAD
 [**Live Demo**]() • [**Source Code**](https://github.com/VARA4u-tech/Vara-s--Portfolio) • [**Request Collaboration**](mailto:pappuridurgavaraprasad4pl@gmail.com)
+=======
+[**Live Demo**](https://abhishek-portfolio.vercel.app/) • [**Source Code**](https://github.com/mishrabhi/my-pofo) • [**Request Collaboration**](mailto:asmyselfabhishek00@gmail.com)
+>>>>>>> 55d5f36 (fixed bugs and updated readme)
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 ### **The Problem Statement**
 
@@ -32,7 +36,7 @@ This portfolio is a **World-Class Digital Identity** built to bridge the gap bet
 
 ---
 
-## 🏗 System Architecture
+## System Architecture
 
 The portfolio follows a modular, component-based architecture designed for extreme performance and scalability.
 
@@ -61,7 +65,7 @@ graph TD
 
 ---
 
-## ⚙️ Development Methodology
+## Development Methodology
 
 ### **Agile Implementation**
 
@@ -82,7 +86,7 @@ The project was developed using a disciplined **Agile (Scrum)** approach:
 
 ---
 
-## ✨ Features Breakdown
+##  Features Breakdown
 
 | Feature                      | Description                                                          | Implementation Detail                                                                                                                                                                                                                       |
 | :--------------------------- | :------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -99,7 +103,7 @@ The project was developed using a disciplined **Agile (Scrum)** approach:
 
 ---
 
-## 🔄 Application Workflow
+## Application Workflow
 
 The portfolio is designed as an interactive funnel that guides recruiters through a technical discovery journey.
 
@@ -131,7 +135,7 @@ sequenceDiagram
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### **Frontend Excellence**
 
@@ -157,7 +161,7 @@ sequenceDiagram
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 ```text
 src/
@@ -182,7 +186,7 @@ src/
 
 ---
 
-## 📊 Engineering Decisions
+## Engineering Decisions
 
 - **Why Vite?**: Near-instant server starts and optimized production bundles vs CRA.
 - **Why Neo-Brutalism?**: To stand out from generic portfolios — bold strokes, high contrast, and raw layouts convey engineering confidence.
@@ -193,7 +197,7 @@ src/
 
 ---
 
-## 📱 Responsive & Performance Strategy
+## Responsive & Performance Strategy
 
 ### Device Tiers
 
@@ -214,7 +218,7 @@ src/
 
 ---
 
-## 🧪 Testing & Validation
+##  Testing & Validation
 
 - **Responsive Design**: Verified across iPhone SE, iPhone 15 Pro, iPad, and 4K displays.
 - **Cross-Browser**: Tested on Chrome, Firefox, Safari, and Edge.
@@ -224,25 +228,17 @@ src/
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - [ ] **AI Chatbot**: A personalized RAG-based AI assistant to answer recruiter questions.
-- [ ] **Blog Integration**: Direct CMS connection to Hashnode for automated post-syncing.
 - [ ] **Dark Mode 2.0**: Advanced themes with custom color palettes.
 - [ ] **PWA Support**: Offline-first capability for the portfolio.
 
 ---
 
-## 🏆 Achievements
-
-- **Freelance Excellence**: Successfully delivered a full-stack client project for the Academy of Tech Masters (AOTMS).
-- **Project Scale**: 11+ Production-ready applications showcased, ranging from AI Emailers to E-Commerce portals.
-- **UX Innovation**: Engineered a split-zone cursor-intelligence system for project cards — a pattern not commonly found in developer portfolios.
-
----
 
 <div align="center">
   <h3><b>Let's Build Something Exceptional Together.</b></h3>
-  <p>pappuridurgavaraprasad4pl@gmail.com</p>
-  <p>© 2026 Durga Vara Prasad. Built with 🤍 and Coffee.</p>
+  <p>asmyselfabhishek00@gmail.com</p>
+  <p>© 2026 Abhishek Mishra. Built with 🤍 and Coffee.</p>
 </div>
