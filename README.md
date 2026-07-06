@@ -9,11 +9,7 @@
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 [![ShadcnUI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
 
-<<<<<<< HEAD
 [**Live Demo**]() • [**Source Code**](https://github.com/VARA4u-tech/Vara-s--Portfolio) • [**Request Collaboration**](mailto:pappuridurgavaraprasad4pl@gmail.com)
-=======
-[**Live Demo**](https://abhishek-portfolio.vercel.app/) • [**Source Code**](https://github.com/mishrabhi/my-pofo) • [**Request Collaboration**](mailto:asmyselfabhishek00@gmail.com)
->>>>>>> 55d5f36 (fixed bugs and updated readme)
 
 ---
 
